@@ -1,0 +1,5 @@
+What is Memory Management?
+Memory Management is the process of controlling and coordinating computer memory. 
+It is an essential function of the Operating System that manages primary memory. 
+It helps processes to move back and forward between the main memory and execution disk.
+Memory Management helps Operating System to keep track of every memory location.
