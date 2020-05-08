@@ -1,9 +1,12 @@
 What is Memory Management?
 Memory Management is the process of controlling and coordinating computer memory. 
-It is an essential function of the Operating System that manages primary memory. 
+It is an essential function of the Operating System that manages primary memory.
 It helps processes to move back and forward between the main memory and execution disk.
 Memory Management helps Operating System to keep track of every memory location.
 
 What is Processor Management?
 It helps Operating System to create and delete processes.An Operating System performs the following activities for processor management:
 Keeps tracks of the status of processes. The program which perform this task is known as traffic controller. Allocates the CPU that is processor to a process. De-allocates processor when a process is no more required.
+
+What is File Management?
+File management is one of the basic and important features of operating system. Operating system is used to manage files of computer system.File management is the ability to name, store and handling files on a computer.A file management program is a tool for organizing files into folders on your computer, as well as locating, moving, opening and copying existing files.
